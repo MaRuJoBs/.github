@@ -8,6 +8,13 @@ O MaruJob é uma plataforma de conexão entre freelancers de Tecnologia da Infor
 
 [**Acessar MaruJob**](https://front-marujob-virid.vercel.app/)
 
+## Contas de demonstração
+
+| Perfil | E-mail | Senha |
+| --- | --- | --- |
+| Freelancer | teste@gmail.com | `user@123` |
+| Empresa | pichau@gmail.com | `teste.123` |
+
 ## Funcionalidades
 
 - Cadastro e autenticação de freelancers e empresas.
