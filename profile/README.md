@@ -8,10 +8,6 @@ O MaruJob é uma plataforma de conexão entre freelancers de Tecnologia da Infor
 
 [**Acessar MaruJob**](https://front-marujob-virid.vercel.app/)
 
-## Avaliação do projeto
-
-A plataforma possui dois perfis: freelancer e empresa. As credenciais das contas demonstrativas são fornecidas diretamente ao professor no README de entrega, para evitar a exposição pública de senhas.
-
 ## Funcionalidades
 
 - Cadastro e autenticação de freelancers e empresas.
